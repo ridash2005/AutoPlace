@@ -13,3 +13,6 @@ Recursive Bisection Partitioning: Divides chip floorplan into balanced, non-over
 Simulated Annealing Refinement: Applies local perturbations via metaheuristic optimization to improve quality based on multi-objective cost metrics.
 
 Visualization: Calculates wirelength, density overflow, congestion heatmaps, and blockage penalty with easy-to-interpret visual output.
+![Placement Layout](Figure_1.png)        ![Congestion Layout](Figure_2.png)
+
+
