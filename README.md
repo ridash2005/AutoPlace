@@ -1,6 +1,5 @@
-# mini_vlsi_placement_tool
 
-# VLSI Placement Optimization
+# mini_vlsi_placement_tool
 
 ## Overview
 
