@@ -26,7 +26,7 @@ This project implements a comprehensive VLSI placement flow, including global pl
 - Packages: `numpy`, `scipy`, `matplotlib`
 
 Install dependencies via pip:
-pip install numpy scipy matplotlib
+`pip install numpy scipy matplotlib`
 
 
 ---
@@ -35,8 +35,8 @@ pip install numpy scipy matplotlib
 
 ### Clone repository
 
-git clone https://github.com/ridash2005/mini_vlsi_placement_tool.git
-cd vlsi-placement-optimization
+`git clone https://github.com/ridash2005/mini_vlsi_placement_tool.git
+cd vlsi-placement-optimization`
 
 
 ### Run placement
