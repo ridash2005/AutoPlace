@@ -40,7 +40,7 @@ cd vlsi-placement-optimization`
 
 
 ### Run placement
-python main.py
+`python main.py`
 
 
 This runs the full placement flow with default parameters including visualization of the final placement and congestion heatmap.
