@@ -49,9 +49,9 @@ This runs the full placement flow with default parameters including visualizatio
 
 You can customize various aspects of the placement process, including:
 
-Chip dimensions and netlist: Modify input.py to change chip width, height, and netlist details to match your design specifications.
+Chip dimensions and netlist: Modify `input.py` to change chip width, height, and netlist details to match your design specifications.
 
-Cost function weights: Adjust the relative weights for wirelength, density overflow, blockage penalty, and clustering penalty in cost.py to prioritize different optimization objectives.
+Cost function weights: Adjust the relative weights for wirelength, density overflow, blockage penalty, and clustering penalty in `cost.py` to prioritize different optimization objectives.
 
 Annealing iterations: Set the number of simulated annealing iterations (anneal_iters) to control the refinement duration and solution quality.
 
