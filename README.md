@@ -79,7 +79,7 @@ Visualization: Enable or disable visual output with the visualize flag.
 - `partitioning.py` - Recursive bipartitioning with blockage awareness  
 - `annealing.py` - Simulated annealing refinement  
 - `visualize.py` - Plotting utilities for chip layout and congestion  
-- `run_placement.py` - Main executable placement flow
+- `main.py` - Main executable placement flow
 
 ---
 
