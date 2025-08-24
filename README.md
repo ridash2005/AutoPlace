@@ -35,8 +35,8 @@ Install dependencies via pip:
 
 ### Clone repository
 
-`git clone https://github.com/ridash2005/mini_vlsi_placement_tool.git
-cd vlsi-placement-optimization`
+`git clone https://github.com/ridash2005/mini_vlsi_placement_tool.git`
+`cd mini_vlsi_placement_tool.git`
 
 
 ### Run placement
