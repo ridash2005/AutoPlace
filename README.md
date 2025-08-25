@@ -1,4 +1,4 @@
-# mini_vlsi_placement_tool
+# AutoPlace
 
 
 ## Overview
