@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a comprehensive VLSI placement flow, including global placement, legalization, and refinement algorithms to optimize cell locations on a chip. The goals are to minimize total wirelength, reduce congestion, and respect density and blockage constraints essential for high-quality physical design.
+This project implements a comprehensive VLSI placement flow, including global placement, legalization, and refinement algorithms to optimize cell locations on a chip. The goals are to minimize total wirelength, reduce congestion, and respect density and blockage constraints.
 
 ---
 
