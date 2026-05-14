@@ -2,10 +2,15 @@
 
 <div align="center">
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
-![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)](https://github.com/ridash2005/AutoPlacer/releases)
+[![Stars](https://img.shields.io/github/stars/ridash2005/AutoPlacer?style=flat-square)](https://github.com/ridash2005/AutoPlacer/stargazers)
+[![Verilog](https://img.shields.io/badge/HDL-Verilog%20%7C%20SystemVerilog-B71C1C?style=flat-square)](https://en.wikipedia.org/wiki/Verilog)
+[![DEF](https://img.shields.io/badge/Format-LEF%20%2F%20DEF-0277BD?style=flat-square)](https://en.wikipedia.org/wiki/Design_Exchange_Format)
 
 **A high-performance automated placement optimization engine for VLSI design.**
 
